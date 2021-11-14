@@ -2,7 +2,7 @@
 
 ![JavaScript's Logo - Yellow background with Grey Letters Saying "JS"](https://s3-eu-west-1.amazonaws.com/sdz-upload/prod/upload/js2.jpg "JavaScript's Logo") 
 
-JavaScript is a fast, front-end, and mostly in-browser programming language. It is my ~~least~~ favorite language as of right now because of all the cool tricks it has to offer. You can do most anything with the language, anything from math to scanning and manipulating HTML documents to even seeing your geolocation statistics!
+*JavaScript* is a fast, front-end, and mostly in-browser programming language. It is my ~~least~~ favorite language as of right now because of all the cool tricks it has to offer. You can do most anything with the language, anything from math to scanning and manipulating HTML documents to even seeing your geolocation statistics!
 
 Here are some other things you can do with JavaScript:
 
